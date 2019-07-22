@@ -29,4 +29,3 @@
 --  删除表的外键约束
 		alter table test2_new drop foreign key u_c;
 --  删除一张表
- 		drop table class;
